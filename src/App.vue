@@ -7,7 +7,7 @@
 
 <template>
     <Title></Title>
-    <div @click="() =>  { video = !video }">swap</div>
+    <div @click="() =>  { video = !video }">swap image</div>
     <div v-if="video">
         <video width="320" height="240" controls>
             <source src="./assets/yt.mp4" type="video/mp4">
