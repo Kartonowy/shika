@@ -17,7 +17,7 @@
     <div v-else>
         <img 
             src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs1.zerochan.net%2FShikanoko.Nokonoko.Koshitantan.600.4232336.jpg&f=1&nofb=1&ipt=8c369720bff816882c5650d1fcd087782fa37b34eca5894efee231549e03dc7e"
-            alt="whos who"
+            alt="whos who shika"
         >
     </div>
 </template>
