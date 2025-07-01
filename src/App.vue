@@ -16,7 +16,7 @@
     </div>
     <div v-else>
         <img 
-            src="https://cdn.discordapp.com/attachments/1275934431009574943/1387891653246849155/koledzy-a-czy-wy-wiecie-ktora-to-prawdziwa-szikanoko-v0-31ggbhyxfb9f1.webp?ex=685efe53&is=685dacd3&hm=3543c64a8a673112f845dca5962011b4a5faf6e76fc7bf63e0886e7df10cba4d&"
+            src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs1.zerochan.net%2FShikanoko.Nokonoko.Koshitantan.600.4232336.jpg&f=1&nofb=1&ipt=8c369720bff816882c5650d1fcd087782fa37b34eca5894efee231549e03dc7e"
             alt="whos who"
         >
     </div>
