@@ -2,7 +2,7 @@
     import { ref } from 'vue'
     import Title from "./components/Title.vue"
 
-    const video = ref(true)
+    const video = ref(false)
 </script>
 
 <template>
